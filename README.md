@@ -12,7 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 계정명&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
