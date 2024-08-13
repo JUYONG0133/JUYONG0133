@@ -28,7 +28,7 @@ jypark0133@gmail.com
 [gojol.velog.com](https://velog.io/@gojol_devops/about) 
 
 📷 **LinkedIn**  
-[linkedin/juyongpark](www.linkedin.com/in/jypark0133)
+[linkedin/juyongpark](httos://www.linkedin.com/in/jypark0133)
 
 
 ## Tech Stack
