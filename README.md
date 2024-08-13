@@ -2,6 +2,13 @@
 Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 탐구하고 있습니다.
 
 
+Backend Engineering
+- 3 개의 개인, 협업 프로젝트 개발 경험 
+- Spring framework, JPA or Query 기반으로 간단한 Backend API 서버 자체 개발 가능
+- Spring Mybatis 기반으로 간단한 CRUD 개발 가능
+- SFTP 및 배포 스크립트 등을 통한 수동 배포 방식에서 Jenkins의 Git Branch 연동을 이용한 CI/CD 자동화 배포 전환 경험
+- Docker Registry를 통한 Image 관리 및 Docker, Docker-Compose를 통한 서버 배포 경험
+
 
 ## 📬 Contact
 
