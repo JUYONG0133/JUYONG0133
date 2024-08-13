@@ -1,5 +1,6 @@
 # 🌟 안녕하세요! 네이버클라우드캠프의 **클라우드 기반 웹 데브옵스 프로젝트 개발자 과정**을 수강 중인 백엔드 개발자입니다. 
 Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 탐구하고 있습니다.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -55,7 +56,4 @@ jypark0133@gmail.com
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
