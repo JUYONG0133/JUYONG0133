@@ -1,7 +1,5 @@
-### Hi there 👋, 안녕하세요 백엔드 개발자 박주용입니다.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+현재 네이버클라우드캠프에서 개강한 **클라우드 기반 웹 데브옵스 프로젝트 개발자 과정**을 수강 중인 백엔드 개발자입니다. Java와 Python을 깊이 있게 공부하고 있으며, JavaScript와 React에도 큰 흥미를 가지고 즐겁게 탐구하고 있습니다.
 
-현재 저는 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
 
 ## 📬 Contact
 
