@@ -3,18 +3,19 @@
 
 현재 저는 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## 📬 Contact
 
-- 📫 How to reach me: jypark0133@gmail.com 
+**✉️ E-Mail**  
+jypark0133@gmail.com
 
+🐱 **Github**  
+[github.com/JUYONG0133](https://github.com/JUYONG0133)
 
+💾 **Tech Blog**  
+[gojol.velog.com](https://velog.io/@gojol_devops/about) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+📷 **LinkedIn**  
+[linkedin/juyongpark](https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EB%B0%95-9b88b4151)
 
 
 ## Tech Stack
@@ -40,3 +41,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
