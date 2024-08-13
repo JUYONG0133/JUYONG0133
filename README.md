@@ -8,14 +8,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me: jypark0133@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JUYONG0133)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JUYONG0133)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/JUYONG0133/contributions?format=svg&private=false)  
 
 
 
