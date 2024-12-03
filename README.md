@@ -1,4 +1,4 @@
-# 🌟 안녕하세요! 네이버클라우드캠프의 **클라우드 기반 웹 데브옵스 프로젝트 개발자 과정**을 수강 중인 백엔드 개발자입니다. 
+# 🌟 안녕하세요! "네이버클라우드캠프 - 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정을 수료하고, 백엔드 개발자로 취업을 준비 중인 박주용입니다."
 Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 탐구하고 있습니다.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUYONG0133&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYONG0133&exclude_repo=JUYONG0133.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,14 +7,19 @@ Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 �
 
 ## About
 
-### Backend Engineering
-- 3개의 개인 및 협업 프로젝트 개발 경험
-- Spring Cloud 기반의 마이크로서비스 아키텍처 설계 및 구현 경험
-- Spring Cloud Gateway와 Eureka를 이용한 API Gateway와 서비스 디스커버리 구현
-- Spring Cloud Config 및 Spring Cloud Bus AMQP를 활용한 분산 환경에서의 구성 관리
-- RabbitMQ, Kafka를 이용한 비동기 메시징 및 데이터 스트리밍 처리
-- Redis, Neo4j, MongoDB, MySQL 등 다양한 데이터베이스와 Spring Data JPA를 이용한 데이터 관리
-- Docker 및 Jenkins를 활용한 CI/CD 파이프라인 구축 및 운영, Docker Registry를 통한 이미지 관리
+📌 Backend Engineering
+마이크로서비스 아키텍처 (MSA) 설계 및 구현 경험
+API Gateway 및 서비스 디스커버리 구현
+(Spring Cloud Gateway, Eureka)
+비동기 메시징 및 데이터 스트리밍
+(RabbitMQ, Kafka 활용)
+분산 환경 구성 관리
+(Spring Cloud Config, Bus AMQP)
+다양한 데이터베이스 활용:
+MySQL, Redis, MongoDB, Neo4j
+CI/CD 파이프라인 구축 및 운영
+(Docker, Jenkins, Docker Registry)
+
 
 
 
@@ -23,8 +28,8 @@ Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 �
 **✉️ E-Mail**  
 jypark0133@gmail.com
 
-🐱 **Github**  
-[github.com/JUYONG0133](https://github.com/JUYONG0133)
+🐱 **Resume**  
+[Resume](https://special-beaufort-5a0.notion.site/If-it-s-not-fun-Why-do-it-20124f3751034eceafda34ffb39d6235?pvs=74)
 
 💾 **Tech Blog**  
 [gojol.velog.com](https://velog.io/@gojol_devops/about) 
