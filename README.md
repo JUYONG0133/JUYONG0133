@@ -8,15 +8,21 @@ Java와 Python을 깊이 있게 공부하며, JavaScript와 React도 즐겁게 �
 ## About
 
 📌 Backend Engineering
+
 마이크로서비스 아키텍처 (MSA) 설계 및 구현 경험
+
 API Gateway 및 서비스 디스커버리 구현
 (Spring Cloud Gateway, Eureka)
+
 비동기 메시징 및 데이터 스트리밍
 (RabbitMQ, Kafka 활용)
+
 분산 환경 구성 관리
 (Spring Cloud Config, Bus AMQP)
+
 다양한 데이터베이스 활용:
 MySQL, Redis, MongoDB, Neo4j
+
 CI/CD 파이프라인 구축 및 운영
 (Docker, Jenkins, Docker Registry)
 
